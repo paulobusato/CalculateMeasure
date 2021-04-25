@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31220.234
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateMeasure.UI", "CalculateMeasure.UI\CalculateMeasure.UI.csproj", "{42F8A0D2-6524-4454-B25A-30AFB394A16E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42F8A0D2-6524-4454-B25A-30AFB394A16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F8A0D2-6524-4454-B25A-30AFB394A16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F8A0D2-6524-4454-B25A-30AFB394A16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F8A0D2-6524-4454-B25A-30AFB394A16E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7B0D570-71BE-4F8E-B995-7FAC37514107}
+	EndGlobalSection
+EndGlobal
